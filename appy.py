@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.imagen("imagen1.jpg")
 # Constante R (L·atm/mol·K)
 R = 0.0821
 
